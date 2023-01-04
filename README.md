@@ -8,16 +8,18 @@
 
 - 💬 You can find me here jiaxicui446@gmail.com
 
-![JessyTsu1's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=JessyTsu1&theme=react-dark)
 
-# Recent Activity :zap:
+## Recent Activity :zap:
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#87](https://github.com/jamesgeorge007/github-activity-readme/issues/87) in [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme)
 <!--END_SECTION:activity-->
 
+![JessyTsu1's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=JessyTsu1&theme=react-dark)
+
+## Github Stats
 ![JessyTsu1's GitHub stats](https://github-readme-stats.vercel.app/api?username=JessyTsu1&count_private=true&show_icons=true&theme=tokyonight&hide=issues)
 
-
+## Top Langs
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JessyTsu1&hide=javascript,html)
 
 <h3 align="left">Connect with me:</h3>
