@@ -8,6 +8,7 @@
 
 - 💬 You can find me here jiaxicui446@gmail.com
 
+![JessyTsu1's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=JessyTsu1&theme=react-dark)
 
 <!--START_SECTION:activity-->
 
