@@ -10,7 +10,9 @@
 
 ![JessyTsu1's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=JessyTsu1&theme=react-dark)
 
+# Recent Activity :zap:
 <!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
 
 ![JessyTsu1's GitHub stats](https://github-readme-stats.vercel.app/api?username=JessyTsu1&count_private=true&show_icons=true&theme=tokyonight&hide=issues)
 
