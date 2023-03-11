@@ -4,9 +4,7 @@
 
 <h1 align="center">Hi 👋, I'm JessyTsu1</h1>
 
-- 🔭 I’m currently working on CV，MultiModel at Peking University, and wanna apply for PhD about this
-
-- 💬 You can find me here jiaxicui446@gmail.com
+- 🔭 I’m currently working on CV，MultiModel, video
 
 
 ## Recent Activity :zap:
