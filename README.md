@@ -9,7 +9,7 @@
 
 ## Recent Activity :zap:
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#87](https://github.com/jamesgeorge007/github-activity-readme/issues/87) in [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme)
+1. 🗣 Commented on [#5797](https://github.com/emeryberger/CSrankings/issues/5797) in [emeryberger/CSrankings](https://github.com/emeryberger/CSrankings)
 <!--END_SECTION:activity-->
 
 ![JessyTsu1's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=JessyTsu1&theme=react-dark)
