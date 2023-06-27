@@ -12,7 +12,6 @@
 1. 🗣 Commented on [#5797](https://github.com/emeryberger/CSrankings/issues/5797) in [emeryberger/CSrankings](https://github.com/emeryberger/CSrankings)
 <!--END_SECTION:activity-->
 
-![JessyTsu1's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=JessyTsu1&theme=react-dark)
 
 ## Github Stats
 ![JessyTsu1's GitHub stats](https://github-readme-stats.vercel.app/api?username=JessyTsu1&count_private=true&show_icons=true&theme=tokyonight&hide=issues)
