@@ -4,7 +4,7 @@
 
 <h1 align="center">Hi 👋, I'm JessyTsu1</h1>
 
-- 🔭 I’m currently working on CV，MultiModel, video
+- 🔭 I’m currently working on CV， MultiModel, video， and LLM， find me here jiaxicui446@gmail.com
 
 
 ## Recent Activity :zap:
