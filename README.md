@@ -9,7 +9,7 @@
 
 ## Recent Activity :zap:
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#315](https://github.com/GitHubDaily/GitHubDaily/issues/315) in [GitHubDaily/GitHubDaily](https://github.com/GitHubDaily/GitHubDaily)
+1. 🗣 Commented on [#3](https://github.com/PKU-YuanGroup/ChatLaw/issues/3) in [PKU-YuanGroup/ChatLaw](https://github.com/PKU-YuanGroup/ChatLaw)
 <!--END_SECTION:activity-->
 
 
