@@ -9,7 +9,7 @@
 
 ## Recent Activity :zap:
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#36](https://github.com/PKU-YuanGroup/ChatLaw/pull/36) in [PKU-YuanGroup/ChatLaw](https://github.com/PKU-YuanGroup/ChatLaw)
+1. 🗣 Commented on [#38](https://github.com/PKU-YuanGroup/ChatLaw/issues/38) in [PKU-YuanGroup/ChatLaw](https://github.com/PKU-YuanGroup/ChatLaw)
 <!--END_SECTION:activity-->
 
 
