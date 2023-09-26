@@ -9,7 +9,7 @@
 
 ## Recent Activity :zap:
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#31](https://github.com/PKU-YuanGroup/ChatLaw/issues/31#issuecomment-1667964328) in [PKU-YuanGroup/ChatLaw](https://github.com/PKU-YuanGroup/ChatLaw)
+1. 🗣 Commented on [#17741](https://github.com/abpframework/abp/issues/17741#issuecomment-1735766021) in [abpframework/abp](https://github.com/abpframework/abp)
 <!--END_SECTION:activity-->
 
 
