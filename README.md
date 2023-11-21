@@ -9,7 +9,7 @@
 
 ## Recent Activity :zap:
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#17741](https://github.com/abpframework/abp/issues/17741#issuecomment-1735766021) in [abpframework/abp](https://github.com/abpframework/abp)
+1. 🎉 Merged PR [#5](https://github.com/PKU-YuanGroup/Video-LLaVA/pull/5) in [PKU-YuanGroup/Video-LLaVA](https://github.com/PKU-YuanGroup/Video-LLaVA)
 <!--END_SECTION:activity-->
 
 
