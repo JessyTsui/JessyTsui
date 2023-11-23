@@ -9,7 +9,7 @@
 
 ## Recent Activity :zap:
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#10](https://github.com/PKU-YuanGroup/Video-LLaVA/issues/10#issuecomment-1824621399) in [PKU-YuanGroup/Video-LLaVA](https://github.com/PKU-YuanGroup/Video-LLaVA)
+1. 🗣 Commented on [#7](https://github.com/PKU-YuanGroup/Video-LLaVA/issues/7#issuecomment-1824652478) in [PKU-YuanGroup/Video-LLaVA](https://github.com/PKU-YuanGroup/Video-LLaVA)
 <!--END_SECTION:activity-->
 
 
