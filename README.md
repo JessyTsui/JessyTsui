@@ -9,7 +9,7 @@
 
 ## Recent Activity :zap:
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#7](https://github.com/PKU-YuanGroup/Video-LLaVA/issues/7#issuecomment-1824652478) in [PKU-YuanGroup/Video-LLaVA](https://github.com/PKU-YuanGroup/Video-LLaVA)
+1. ❗ Opened issue [#4](https://github.com/gaogaotiantian/pitch-visualizer/issues/4) in [gaogaotiantian/pitch-visualizer](https://github.com/gaogaotiantian/pitch-visualizer)
 <!--END_SECTION:activity-->
 
 
