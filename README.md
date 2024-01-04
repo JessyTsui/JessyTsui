@@ -9,7 +9,7 @@
 
 ## Recent Activity :zap:
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#4](https://github.com/gaogaotiantian/pitch-visualizer/issues/4) in [gaogaotiantian/pitch-visualizer](https://github.com/gaogaotiantian/pitch-visualizer)
+1. 🎉 Merged PR [#1](https://github.com/PKU-YuanGroup/Machine-Mindset/pull/1) in [PKU-YuanGroup/Machine-Mindset](https://github.com/PKU-YuanGroup/Machine-Mindset)
 <!--END_SECTION:activity-->
 
 
