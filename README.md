@@ -8,7 +8,7 @@
 
 <h1 align="center">崔家熙 | JiaXi Cui | Panda | JessyTsu1</h1>
 <h4 align="center">先上牌桌 ｜ Get in the game first</h4>
-- 🔭 I’m currently working on CV， MultiModel, video， and LLM， find me here——jiaxicui446@gmail.com]
+- 🔭 I’m currently working on CV， MultiModel, video， and LLM， find me here——jiaxicui446@gmail.com
 
 <p align="center">
 <a href="https://github.com/JessyTsu1"><img src="https://visitor-badge.laobi.icu/badge?page_id=https://github.com/JessyTsu1" align="bottom"/></a>
