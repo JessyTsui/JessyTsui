@@ -19,7 +19,7 @@
 
 ## Recent Activity :zap:
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/PKU-YuanGroup/Machine-Mindset/pull/1) in [PKU-YuanGroup/Machine-Mindset](https://github.com/PKU-YuanGroup/Machine-Mindset)
+1. 🗣 Commented on [#6768](https://github.com/emeryberger/CSrankings/pull/6768#issuecomment-1880078756) in [emeryberger/CSrankings](https://github.com/emeryberger/CSrankings)
 <!--END_SECTION:activity-->
 
 
