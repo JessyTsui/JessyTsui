@@ -19,7 +19,7 @@
 
 ## Recent Activity :zap:
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#6768](https://github.com/emeryberger/CSrankings/pull/6768#issuecomment-1882637035) in [emeryberger/CSrankings](https://github.com/emeryberger/CSrankings)
+1. 💪 Opened PR [#2163](https://github.com/hiyouga/LLaMA-Factory/pull/2163) in [hiyouga/LLaMA-Factory](https://github.com/hiyouga/LLaMA-Factory)
 <!--END_SECTION:activity-->
 
 
