@@ -76,7 +76,7 @@
     <a href="https://github.com/kaixindelele/ChatPaper"><img src="https://github-readme-stats.vercel.app/api/pin/?username=kaixindelele&repo=ChatPaper" alt="ChatPaper GitHub Repo"></a> 
   </td>
   <td> 
-    <a href="https://github.com/JessyTsu1/google_scholar_spider"><img src="https://github-readme-stats.vercel.app/api/pin/?username=JessyTsu1&repo=google_scholar_spider" alt="google_scholar_spider GitHub Repo"></a> 
+    <a href="https://github.com/hiyouga/LLaMA-Factory"><img src="https://github-readme-stats.vercel.app/api/pin/?username=hiyouga&repo=LLaMA-Factory" alt="LLaMA-Factory GitHub Repo"></a> 
   </td>
   <td> 
     <a href="https://github.com/gaogaotiantian/viztracer"><img src="https://github-readme-stats.vercel.app/api/pin/?username=gaogaotiantian&repo=viztracer" alt="viztracer GitHub Repo"></a> 
@@ -96,6 +96,9 @@
 <tr>
   <td> 
     <a href="https://github.com/JessyTsu1/DouYinSpider"><img src="https://github-readme-stats.vercel.app/api/pin/?username=JessyTsu1&repo=DouYinSpider" alt="DouYinSpider GitHub Repo"></a> 
+  </td>
+  <td> 
+    <a href="https://github.com/JessyTsu1/google_scholar_spider"><img src="https://github-readme-stats.vercel.app/api/pin/?username=JessyTsu1&repo=google_scholar_spider" alt="google_scholar_spider GitHub Repo"></a> 
   </td>
   <td> 
     <a href="https://github.com/JessyTsu1/my_pro_template"><img src="https://github-readme-stats.vercel.app/api/pin/?username=JessyTsu1&repo=my_pro_template" alt="my_pro_template GitHub Repo"></a> 
