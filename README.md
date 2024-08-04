@@ -3,18 +3,18 @@
 <p align="center">
   <p align="center">
 &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;
-<a href="https://scholar.google.com/citations?user=QRV7CjgAAAAJ"><img src="https://raw.githubusercontent.com/JessyTsu1/JessyTsu1/main/images/cjx_google_scholar.jpg" align="bottom" width="300px"/></a>
+<a href="https://scholar.google.com/citations?user=QRV7CjgAAAAJ"><img src="https://raw.githubusercontent.com/JessyTsui/JessyTsui/main/images/cjx_google_scholar.jpg" align="bottom" width="300px"/></a>
 
 
-<h1 align="center">崔家熙 | JiaXi Cui | Panda | JessyTsu1</h1>
+<h1 align="center">崔家熙 | JiaXi Cui | Panda | JessyTsui</h1>
 <h4 align="center">先上牌桌 ｜ Get in the game first</h4>
 - 🔭 I’m currently working on MultiModel, Video，LLM，Law and personality LLM，find me here——jiaxicui446@gmail.com
 
 <p align="center">
-<a href="https://github.com/JessyTsu1"><img src="https://visitor-badge.laobi.icu/badge?page_id=https://github.com/JessyTsu1" align="bottom"/></a>
+<a href="https://github.com/JessyTsui"><img src="https://visitor-badge.laobi.icu/badge?page_id=https://github.com/JessyTsui" align="bottom"/></a>
 <a href="https://www.zhihu.com/people/cui-jia-xi-98"><img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.swo.moe%2Fstats%2Fzhihu%2Fcui-jia-xi-98&query=count&color=282c34&label=%E7%9F%A5%E4%B9%8E&labelColor=0084ff&logo=zhihu&logoColor=ffffff&suffix=+%E5%85%B3%E6%B3%A8&cacheSeconds=3600" align="bottom"/></a>
-<a href="https://github.com/JessyTsu1"><img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.swo.moe%2Fstats%2Fgithub%2FJessyTsu1&query=count&color=181717&label=GitHub&labelColor=282c34&logo=github&suffix=+follows&cacheSeconds=3600" align="bottom"/></a>
-<a href="https://huggingface.co/JessyTsu1"><img src="https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-blue" align="bottom"/></a>
+<a href="https://github.com/JessyTsui"><img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.swo.moe%2Fstats%2Fgithub%2FJessyTsui&query=count&color=181717&label=GitHub&labelColor=282c34&logo=github&suffix=+follows&cacheSeconds=3600" align="bottom"/></a>
+<a href="https://huggingface.co/JessyTsui"><img src="https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-blue" align="bottom"/></a>
 </p>
 
 ## Recent Activity :zap:
@@ -24,14 +24,14 @@
 
 
 ## Github Stats
-![JessyTsu1's GitHub stats](https://github-readme-stats.vercel.app/api?username=JessyTsu1&count_private=true&show_icons=true&theme=tokyonight&hide=issues)
+![JessyTsui's GitHub stats](https://github-readme-stats.vercel.app/api?username=JessyTsui&count_private=true&show_icons=true&theme=tokyonight&hide=issues)
 
 <p align = "center">
-  <img src="https://github-profile-trophy.vercel.app/?username=wangrongsheng&column=5&row=1&no-bg=false&margin-w=10&no-frame=false](https://github-profile-trophy.vercel.app/?username=jessytsu1&column=5&row=1&no-bg=false&margin-w=10&no-frame=false)" width="100%" />
+  <img src="https://github-profile-trophy.vercel.app/?username=wangrongsheng&column=5&row=1&no-bg=false&margin-w=10&no-frame=false](https://github-profile-trophy.vercel.app/?username=JessyTsui&column=5&row=1&no-bg=false&margin-w=10&no-frame=false)" width="100%" />
 </p>
 
 ## Top Langs
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JessyTsu1&hide=javascript,html)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JessyTsui&hide=javascript,html)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -84,24 +84,24 @@
 </tr>
 <tr>
   <td> 
-    <a href="https://github.com/JessyTsu1/MiniChaoge"><img src="https://github-readme-stats.vercel.app/api/pin/?username=JessyTsu1&repo=MiniChaoge" alt="MiniChaoge GitHub Repo"></a> 
+    <a href="https://github.com/JessyTsui/MiniChaoge"><img src="https://github-readme-stats.vercel.app/api/pin/?username=JessyTsui&repo=MiniChaoge" alt="MiniChaoge GitHub Repo"></a> 
   </td>
   <td>
     <a href="https://github.com/moshang-xc/lottery"><img src="https://github-readme-stats.vercel.app/api/pin/?username=moshang-xc&repo=lottery" alt="lottery GitHub Repo"></a> 
   </td>
   <td> 
-    <a href="https://github.com/JessyTsu1/k8s_OpenKruise_config"><img src="https://github-readme-stats.vercel.app/api/pin/?username=JessyTsu1&repo=k8s_OpenKruise_config" alt="k8s_OpenKruise_config GitHub Repo"></a> 
+    <a href="https://github.com/JessyTsui/k8s_OpenKruise_config"><img src="https://github-readme-stats.vercel.app/api/pin/?username=JessyTsui&repo=k8s_OpenKruise_config" alt="k8s_OpenKruise_config GitHub Repo"></a> 
   </td>
 </tr>
 <tr>
   <td> 
-    <a href="https://github.com/JessyTsu1/DouYinSpider"><img src="https://github-readme-stats.vercel.app/api/pin/?username=JessyTsu1&repo=DouYinSpider" alt="DouYinSpider GitHub Repo"></a> 
+    <a href="https://github.com/JessyTsui/DouYinSpider"><img src="https://github-readme-stats.vercel.app/api/pin/?username=JessyTsui&repo=DouYinSpider" alt="DouYinSpider GitHub Repo"></a> 
   </td>
   <td> 
-    <a href="https://github.com/JessyTsu1/google_scholar_spider"><img src="https://github-readme-stats.vercel.app/api/pin/?username=JessyTsu1&repo=google_scholar_spider" alt="google_scholar_spider GitHub Repo"></a> 
+    <a href="https://github.com/JessyTsui/google_scholar_spider"><img src="https://github-readme-stats.vercel.app/api/pin/?username=JessyTsui&repo=google_scholar_spider" alt="google_scholar_spider GitHub Repo"></a> 
   </td>
   <td> 
-    <a href="https://github.com/JessyTsu1/my_pro_template"><img src="https://github-readme-stats.vercel.app/api/pin/?username=JessyTsu1&repo=my_pro_template" alt="my_pro_template GitHub Repo"></a> 
+    <a href="https://github.com/JessyTsui/my_pro_template"><img src="https://github-readme-stats.vercel.app/api/pin/?username=JessyTsui&repo=my_pro_template" alt="my_pro_template GitHub Repo"></a> 
   </td>
 </tr>
 </table>
@@ -113,10 +113,10 @@ They once all received 1000+ stars, and at that time, I also developed a small p
 <table>
 <tr>
   <td> 
-    <a href="https://github.com/JessyTsu1/LNU-COVID-Auto-commit"><img src="https://github-readme-stats.vercel.app/api/pin/?username=JessyTsu1&repo=LNU-COVID-Auto-commit" alt="LNU-COVID-Auto-commit GitHub Repo"></a> 
+    <a href="https://github.com/JessyTsui/LNU-COVID-Auto-commit"><img src="https://github-readme-stats.vercel.app/api/pin/?username=JessyTsui&repo=LNU-COVID-Auto-commit" alt="LNU-COVID-Auto-commit GitHub Repo"></a> 
   </td>
   <td> 
-    <a href="https://github.com/JessyTsu1/LNU_Thesis"><img src="https://github-readme-stats.vercel.app/api/pin/?username=JessyTsu1&repo=LNU_Thesis" alt="LNU_Thesis GitHub Repo"></a> 
+    <a href="https://github.com/JessyTsui/LNU_Thesis"><img src="https://github-readme-stats.vercel.app/api/pin/?username=JessyTsui&repo=LNU_Thesis" alt="LNU_Thesis GitHub Repo"></a> 
   </td>
 </tr>
 </table>
